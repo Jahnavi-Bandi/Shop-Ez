@@ -4,28 +4,18 @@ A clean, scalable MERN stack E-commerce application that allows users to browse 
 
 🚀 Features
 
-🛒 Product Listing, Search, and Filtering
 
-🛍️ Add to Cart & Manage Cart
-
-💳 Checkout & Order Management
-
-🔒 User Authentication (JWT)
-
-📦 Admin Product & Order Management
-
-📱 Responsive Design
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone the repository:
+1️⃣ Clone the repository
 
 git clone https://github.com/Jahnavi-Bandi/Shop-Ez.git
 cd Shop-Ez
 
-🔗 Watch Live Video
+📹 Watch Live Demo :https://drive.google.com/file/d/1uQmMYSPymGIpKM2tohFHODVujcIs6tWE/view?usp=sharing
 
-2️⃣ Install dependencies:
+2️⃣ Install dependencies
 
 Backend:
 
@@ -37,19 +27,19 @@ Frontend:
 cd ../frontend
 npm install
 
-3️⃣ Set up environment variables:
+3️⃣ Set up environment variables
 
-Create a .env file in your backend folder with:
+In your backend .env:
 
 MONGO_URI=your_database_uri
 JWT_SECRET=your_secret
 PORT=5000
 
-(Optional) In your frontend .env if needed:
+(Optional) In your frontend .env:
 
 REACT_APP_API_URL=http://localhost:5000/api
 
-4️⃣ Start the development servers:
+4️⃣ Start the development servers
 
 Backend:
 
@@ -67,17 +57,17 @@ npm test
 
 📌 Future Enhancements
 
-🧑‍💼 User Profile with Address Management
+User Profile with Address Management
 
-💬 In-App Chat with Seller
+In-App Chat with Seller
 
-📈 Admin Dashboard with Analytics
+Admin Dashboard with Analytics
 
-💳 Payment Gateway Integration
+Payment Gateway Integration
 
-🗣️ Multi-Language Support
+Multi-Language Support
 
-🔔 Email & Push Notifications
+Email & Push Notifications
 
 🐞 Known Issues
 
@@ -89,21 +79,19 @@ Minor UI adjustments needed for very small screens.
 
 🤝 Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+Contributions are welcome! Fork the repository and submit a pull request.
 
 📄 License
 
-This project is licensed under the MIT License.
+Licensed under the MIT License.
 
 📬 Contact
 
-For any queries, reach out via:
+Email: your-email@example.com
 
-📧 Email: your-email@example.com
+LinkedIn: Your LinkedIn
 
-📱 LinkedIn: Your LinkedIn
+Portfolio: Your Portfolio
 
-🌐 Portfolio: Your Portfolio
-
-This README.md is clean, organized, and ready for recruiters, GitHub profile presentation, and your ShopEZ project submission.
+✅ This README.md is fully ready for clean GitHub display, mobile viewing, and recruiter demonstration without alignment issues.
 
