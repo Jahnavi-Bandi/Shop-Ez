@@ -33,6 +33,6 @@ A clean, scalable **MERN stack E-commerce application** that allows users to bro
 1️⃣ **Clone the repository:**
 
 ```bash
-git clone https://github.com/VelchuriMahesh/Shop-website.git
+git clone https://github.com/Jahnavi-Bandi/Shop-EZ.git
 cd Shop-website
-🔗 Drive :https://drive.google.com/file/d/1WZDpZaeSQPZ9sXUgBukyt3D6I3pwf7kI/view?usp=sharing
+🔗 Drive :https://drive.google.com/file/d/1uQmMYSPymGIpKM2tohFHODVujcIs6tWE/view?usp=sharing
