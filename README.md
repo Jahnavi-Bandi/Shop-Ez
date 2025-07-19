@@ -69,13 +69,9 @@ Multi-Language Support
 
 Email & Push Notifications
 
-🐞 Known Issues
+ScreenShot:
+<img width="2869" height="895" alt="Screenshot 2025-06-26 100214" src="https://github.com/user-attachments/assets/fec02457-0354-41bc-8873-726c9cfe2ae2" />
 
-No payment gateway integration yet.
-
-Push notifications are not implemented.
-
-Minor UI adjustments needed for very small screens.
 
 🤝 Contributing
 
