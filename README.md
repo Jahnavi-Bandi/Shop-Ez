@@ -81,17 +81,4 @@ Minor UI adjustments needed for very small screens.
 
 Contributions are welcome! Fork the repository and submit a pull request.
 
-📄 License
-
-Licensed under the MIT License.
-
-📬 Contact
-
-Email: your-email@example.com
-
-LinkedIn: Your LinkedIn
-
-Portfolio: Your Portfolio
-
-✅ This README.md is fully ready for clean GitHub display, mobile viewing, and recruiter demonstration without alignment issues.
 
